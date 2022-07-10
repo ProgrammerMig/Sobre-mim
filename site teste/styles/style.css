@@ -1,0 +1,116 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #bcdefd;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  border-radius: 39px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #03284b;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  padding: 25px;
+  background-color: rgb(142, 170, 245);
+  color: black;
+  font-size: 25px;
+}
+.dark-mode {
+  background-color: rgb(25, 27, 46);
+  color: white;
+}
+.light-mode {
+  background-color: rgb(142, 170, 245);
+  color: black;
+}
+
+.btn {
+  background: #66F8FF;
+  background-image: -webkit-linear-gradient(top, #66F8FF, #03746E);
+  background-image: -moz-linear-gradient(top, #66F8FF, #03746E);
+  background-image: -ms-linear-gradient(top, #66F8FF, #03746E);
+  background-image: -o-linear-gradient(top, #66F8FF, #03746E);
+  background-image: -webkit-gradient(to bottom, #66F8FF, #03746E);
+  -webkit-border-radius: 39px;
+  -moz-border-radius: 39px;
+  border-radius: 39px;
+  height: 35px;
+  line-height: 35px;
+  width: 307px;
+  font-size: 3mm;
+  font-weight: 600;
+  padding: 56px;
+  -webkit-box-shadow: 1px 1px 20px 0 rgba(188, 222, 253, 0);
+  -moz-box-shadow: 1px 1px 20px 0 rgba(188, 222, 253, 0);
+  box-shadow: 1px 1px 20px 0 rgba(188, 222, 253, 0);
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #03284B 5px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: bottom;
+  margin-left: 140px;
+}
+
+.btn:hover {
+  border: solid #03284B 5px;
+  background: #45F0F9;
+  background-image: -webkit-linear-gradient(top, #45F0F9, #08585C);
+  background-image: -moz-linear-gradient(top, #45F0F9, #08585C);
+  background-image: -ms-linear-gradient(top, #45F0F9, #08585C);
+  background-image: -o-linear-gradient(top, #45F0F9, #08585C);
+  background-image: -webkit-gradient(to bottom, #45F0F9, #08585C);
+  -webkit-border-radius: 39px;
+  -moz-border-radius: 39px;
+  border-radius: 39px;
+  text-decoration: none;
+}
+
+.btnContent {
+  color: #03284B;
+  font-family: Verdana;
+  margin-left: 153px;
+  margin-bottom: 30px;
+  margin-top: -70px;
+  font-weight: 600;
+  font-size: 3.5mm;
+}
+
+.img-eu {
+
+  width: 256px;
+  height: 256px;
+  border: solid #000000 5px;
+  border-radius: 39px;
+}
